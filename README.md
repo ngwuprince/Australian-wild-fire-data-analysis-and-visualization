@@ -3,7 +3,7 @@
 
 Description: This project aims to analyze and visualize the wildfire activities in Australia using the provided dataset. It will explore patterns and trends, and create visualizations to gain insights into the behavior of wildfires in different regions of Australia.
 
-Tasks:
+Tasks: Project tasks are split into **Part 1 and Part 2**
 
 **Part 1**: Analyzing the wildfire activities in Australia
 
